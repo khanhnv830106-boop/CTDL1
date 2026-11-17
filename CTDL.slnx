@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CTDL/CTDL.vcxproj" Id="acc15968-eef4-41c7-ac37-e7f0f1dd21c2" />
+</Solution>
